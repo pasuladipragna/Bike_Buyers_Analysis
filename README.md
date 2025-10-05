@@ -72,7 +72,7 @@ Bike-Buyers-Excel-Project/
 ├── Bike Buyers Dataset (Project).xlsx # Raw dataset
 ├── Bike_Buyers_Dashboard.xlsx # Final cleaned data & dashboard
 ├── README.md # Project documentation
-└── visuals/ # Folder for exported charts
+
 
 ## 🏁 Conclusion
 
